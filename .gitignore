@@ -1,5 +1,6 @@
 HELP.md
 target/
+/src/test/java/ru/netology/_71_springboot_purpose/requests.http
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
